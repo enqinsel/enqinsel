@@ -8,7 +8,7 @@ A Computer Engineering student from Inonu University
 
 * 🌍  I'm based in Turkey, Bursa
 * ✉️  You can contact me at [enqinsel@gmail.com](mailto:enqinsel@gmail.com)
-* 🧠  I'm learning JavaScript and React
+* 🧠  I'm learning JavaScript.
 
 ### Skills
 
