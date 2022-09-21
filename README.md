@@ -1,14 +1,14 @@
 Hi 👋 My name is Engin
 ======================
 
-Jr. Front-End Developer and Jr. UI/UX Designer
+Front-End Developer
 ----------------------------------------------
 
 A Computer Engineering student from Inonu University
 
 * 🌍  I'm based in Turkey, Bursa
 * ✉️  You can contact me at [enqinsel@gmail.com](mailto:enqinsel@gmail.com)
-* 🧠  I'm learning JavaScript.
+* 🧠  I'm currently learning JavaScript and Vue.js
 
 ### Skills
 
