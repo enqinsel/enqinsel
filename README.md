@@ -1,7 +1,6 @@
-    Hi 👋
-======================
+<h1 align="center"> Hi there 👋 </h1>
 
-Front-End Developer
+<h2 align="center">Front-end Developer</h2>
 ----------------------------------------------
 
 A Computer Engineering student from Inonu University
