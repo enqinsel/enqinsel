@@ -36,8 +36,8 @@ A Computer Engineering student from Inonu University
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enqinsel&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enqinsel&show_icons=true&count_private=true" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enqinsel&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="475px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enqinsel&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
