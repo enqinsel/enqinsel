@@ -33,7 +33,7 @@ A Computer Engineering student from Inonu University
 
 <b>My GitHub Stats</b>
 
-<div>
+<div display="flex">
   <img width="380px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enqinsel&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />
   <img width="455px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enqinsel&show_icons=true&count_private=true"/>    
 </div>
