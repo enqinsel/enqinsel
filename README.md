@@ -2,11 +2,11 @@
 
 <h2 align="center">Front-end Developer</h2>
 
-A Computer Engineering student from Inonu University
+Graduated from İnönü University Computer Engineering in 2023.
 
 * 🌍  I'm based in Turkey, Bursa
 * ✉️  You can contact me at [enqinsel@gmail.com](mailto:enqinsel@gmail.com)
-* 🧠  I'm currently learning JavaScript and Vue.js
+* 🧠  I'm currently learning and React
 
 ### Skills
 
@@ -23,6 +23,8 @@ A Computer Engineering student from Inonu University
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vuejs" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 
