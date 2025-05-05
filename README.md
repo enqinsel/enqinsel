@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h2 align="center">Front-end Developer</h2>
+<h2 align="center">Front-end Developer & UI Designer</h2>
 
 Graduated from İnönü University Computer Engineering in 2023.
 
 * 🌍  I'm based in Turkey, Bursa
 * ✉️  You can contact me at [enqinsel@gmail.com](mailto:enqinsel@gmail.com)
-* 🧠  I'm currently learning React
+* 💼  You can take a look at Portolio
 
 ### Skills
 
