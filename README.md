@@ -6,7 +6,7 @@ Graduated from İnönü University Computer Engineering in 2023.
 
 * 🌍  I'm based in Turkey, Bursa
 * ✉️  You can contact me at [enqinsel@gmail.com](mailto:enqinsel@gmail.com)
-* 💼  You can take a look at [Portfolio](https://www.behance.net/enqinsel)
+* 💼  You can take a look at [Portfolio](https://www.enqinsel.dev)
 
 ### Skills
 
